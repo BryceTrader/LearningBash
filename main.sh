@@ -6,6 +6,7 @@ arrays="./scripts/arr.sh"
 basicOps="./scripts/basicOps.sh"
 conditionals="./scripts/conditionals.sh"
 fib="./scripts/fib.sh"
+cr="./scripts/createScripts.sh"
 
 # . ${hello}
 # . ${strInt}
